@@ -18,8 +18,8 @@ Systeme de gestion et suivi de systeme de production
 ### Setup File
   - This is generated with the help of Advanced installer Software
 ### Screenshots
-  - This [Folder](https://github.com/SaifEddineBenRomdhane) Contains the photos of all the used winforms
+  - This [Folder](https://github.com/SaifEddineBenRomdhane/PFE2019/blob/master/Code%20Source/vegaplatform/screenshots) Contains the photos of all the used winforms
 ### Rapport du stage
-  - This [Document](https://github.com/SaifEddineBenRomdhane) Contains the photos of all the used winforms
+  - This [Document](https://github.com/SaifEddineBenRomdhane/PFE2019/blob/master/Rapport%20PFE.docx) Contains the photos of all the used winforms
  
 ![alt text](https://github.com/SaifEddineBenRomdhane/PFE2019/blob/master/Code%20Source/vegaplatform/screenshots/main.PNG)
