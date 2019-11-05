@@ -19,7 +19,6 @@ Systeme de gestion et suivi de systeme de production
   - This is generated with the help of Advanced installer Software
 ### Screenshots
   - This [Folder](https://github.com/SaifEddineBenRomdhane/PFE2019/blob/master/Code%20Source/vegaplatform/screenshots) Contains the photos of all the used winforms
-### Rapport du stage
-  - This [Document](https://github.com/SaifEddineBenRomdhane/PFE2019/blob/master/Rapport%20PFE.docx) Contains my PFE Rapport
- 
+
+
 ![alt text](https://github.com/SaifEddineBenRomdhane/PFE2019/blob/master/Code%20Source/vegaplatform/screenshots/main.PNG)
