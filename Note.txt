@@ -3,13 +3,13 @@ cette package comporte :
 ***********************
 1//Le code source de l'application : 
 
-pour le testé de préference que vous avez :  
+pour le testÃ© de prÃ©ference que vous avez :  
 - Visual studio 2019
 - SQLserver 2014 au moins
 - .Net Framework au moins v4.5
 
 2//Le Setup file :
 
-ceci est un package d'installation générér a l'aide de AdvancedInstaller et nessecite un seveur Sql pré-installé pour le testé
+ceci est un package d'installation gÃ©nÃ©rÃ©r a l'aide de AdvancedInstaller et nessecite un seveur Sql prÃ©-installÃ© pour le testÃ©
 	
-3//Le rapport du PFE  
+3//Le
