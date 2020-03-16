@@ -1,8 +1,7 @@
 # PFE2019
 
 ## Subject : 
-Systeme de gestion et suivi de systeme de production
-
+  I built a desktop application for my University graduation project that manages and keeps track of the different tasks within the production environment using the Dotnet Framework technology (c# + EntityFramework + Linq) along with the UnitOfWork and Repository patterns for the architecture 
 ### Requirements :
 - SQL server v2014 at least
 - Visual Studio 2017 or heigher
