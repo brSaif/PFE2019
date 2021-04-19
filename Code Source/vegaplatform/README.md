@@ -13,8 +13,3 @@ Requirements :
 To get it to work use :
 						-	Run Update-database command to generate the database via EFCode First Workflow
 
-### vegaplatform
-
-[this is the description](https://github.com/SaifEddineBenRomdhane)
-
-![alt text](https://github.com/SaifEddineBenRomdhane/vegaplatform/blob/master/screenshots/0.PNG)
